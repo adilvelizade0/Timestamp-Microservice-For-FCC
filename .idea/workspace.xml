@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d7e64d-ebc8-4e11-9dec-6821a2698d94" name="Default Changelist" comment="">
+    <list default="true" id="35d7e64d-ebc8-4e11-9dec-6821a2698d94" name="Default Changelist" comment="Update TimeStamp Microservice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +57,42 @@
       <option name="presentableId" value="Default" />
       <updated>1603709684881</updated>
       <workItem from="1603709686308" duration="135000" />
-      <workItem from="1603710464560" duration="366000" />
+      <workItem from="1603710464560" duration="767000" />
+      <workItem from="1603712068965" duration="102000" />
     </task>
+    <task id="LOCAL-00001" summary="Update TimeStamp Microservice">
+      <created>1603710834154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603710834154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update TimeStamp Microservice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update TimeStamp Microservice" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="131" key="Vcs.Push.Dialog.v2" timestamp="1603710848491">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="131" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1603710848491" />
   </component>
 </project>
