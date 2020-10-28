@@ -19,11 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d7e64d-ebc8-4e11-9dec-6821a2698d94" name="Default Changelist" comment="Update TimeStamp Microservice" />
+    <list default="true" id="35d7e64d-ebc8-4e11-9dec-6821a2698d94" name="Default Changelist" comment="Update TimeStamp Microservice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +65,7 @@
       <workItem from="1603710464560" duration="767000" />
       <workItem from="1603712068965" duration="126000" />
       <workItem from="1603714064427" duration="3000" />
+      <workItem from="1603892707467" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="Update TimeStamp Microservice">
       <created>1603710834154</created>
